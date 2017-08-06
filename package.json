@@ -31,5 +31,17 @@
     "javascript",
     "framework",
     "front-end"
-  ]
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "crizmas-mvc": "^1.0.0",
+    "crizmas-async-utils": "^1.0.0",
+    "crizmas-utils": "^1.0.0",
+    "jest": "^20.0.4",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
 }
